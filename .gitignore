@@ -1,0 +1,17 @@
+/dist
+/build/
+*.xml
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+nbproject/private/private.xml
+nbproject/private/private.properties
+src/Models/SensorMonitor.java
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
+src/Models/SensorMonitor.java
+src/Views/CleaningPanel.form
+src/Views/CleaningPanel.java
+nbproject/private/private.xml
+nbproject/private/private.xml
